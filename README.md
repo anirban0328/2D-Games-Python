@@ -1,4 +1,4 @@
-Python-games
+Python games
 ============
 
 6 python games for the course - Interactive Programming in Python (Rice University, United States)
